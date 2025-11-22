@@ -1,0 +1,10 @@
+streamlit
+openai
+pandas
+python-dotenv
+tiktoken
+langchain-openai
+langchain
+bs4
+requests
+python-dateutil
