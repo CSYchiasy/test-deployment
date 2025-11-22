@@ -79,7 +79,7 @@ watchdog==4.0.0
 yarl==1.9.4
 streamlit
 python-dotenv
-openai
+openai==1.27.0
 langchain
 langchain-core
 langchain-openai
