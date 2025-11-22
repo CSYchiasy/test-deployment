@@ -5,7 +5,7 @@ import pandas as pd
 from logics.customer_query_handler import process_user_message
 
 
-# region <--------- Streamlit App Configuration --------->
+# startregion <--------- Streamlit App Configuration --------->
 st.set_page_config(
     layout="centered",
     page_title="My Streamlit App"
