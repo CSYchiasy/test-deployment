@@ -4,7 +4,9 @@ altair==5.3.0
 annotated-types==0.6.0
 anyio==4.3.0
 attrs==23.2.0
+beautifulsoup4
 blinker==1.8.2
+bs4
 cachetools==5.3.3
 certifi==2024.2.2
 charset-normalizer==3.3.2
@@ -12,7 +14,9 @@ click==8.1.7
 colorama==0.4.6
 dataclasses-json==0.6.5
 distro==1.9.0
+faiss-cpu
 frozenlist==1.4.1
+geopy
 gitdb==4.0.11
 GitPython==3.1.43
 greenlet==3.0.3
@@ -52,6 +56,7 @@ pydantic_core==2.18.2
 pydeck==0.9.0
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
+python-dotenv
 pytz==2024.1
 PyYAML==6.0.1
 referencing==0.35.1
@@ -77,17 +82,3 @@ tzdata==2024.1
 urllib3==2.2.1
 watchdog==4.0.0
 yarl==1.9.4
-streamlit
-python-dotenv
-openai==1.27.0
-langchain==0.1.19
-langchain-core
-langchain-openai==0.1.6
-langchain-community==0.0.38
-bs4
-pandas==2.2.2
-requests==2.31.0
-beautifulsoup4
-python-dateutil
-geopy
-faiss-cpu
